@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepMania2(unity).CSharp.Plugins", "StepMania2(unity).CSharp.Plugins.csproj", "{9D40D3DC-A9B4-2D5E-8DF7-DE9021A828E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepMania2(unity).CSharp", "StepMania2(unity).CSharp.csproj", "{4F8A3C3A-D56E-1F09-1A1D-A26360006C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D40D3DC-A9B4-2D5E-8DF7-DE9021A828E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D40D3DC-A9B4-2D5E-8DF7-DE9021A828E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D40D3DC-A9B4-2D5E-8DF7-DE9021A828E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D40D3DC-A9B4-2D5E-8DF7-DE9021A828E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8A3C3A-D56E-1F09-1A1D-A26360006C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8A3C3A-D56E-1F09-1A1D-A26360006C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8A3C3A-D56E-1F09-1A1D-A26360006C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8A3C3A-D56E-1F09-1A1D-A26360006C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

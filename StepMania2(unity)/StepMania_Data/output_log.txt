@@ -1,0 +1,108 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6670 (ID=0x6758)
+    Vendor:   ATI
+    VRAM:     1008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.318 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x2100 at 0,-1050
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1450 -> priority: 1 
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libc
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\libc
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libc
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libc
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\libc
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libc
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\libX11
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/libX11
+Platform assembly: E:\Dropbox\프로젝트\StepMania(NJ-발표+unity)\StepMania2(unity)\StepMania_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library E:/Dropbox/프로젝트/StepMania(NJ-발표+unity)/StepMania2(unity)/StepMania_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.390534 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.677600 ms (FindLiveObjects: 0.040088 ms CreateObjectMapping: 0.010266 ms MarkObjects: 0.600844 ms  DeleteObjects: 0.015155 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.506488 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.949422 ms (FindLiveObjects: 0.040088 ms CreateObjectMapping: 0.010266 ms MarkObjects: 0.883911 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.753866 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.712311 ms (FindLiveObjects: 0.039600 ms CreateObjectMapping: 0.009777 ms MarkObjects: 0.649733 ms  DeleteObjects: 0.006844 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.921555 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 1.280400 ms (FindLiveObjects: 0.113422 ms CreateObjectMapping: 0.018577 ms MarkObjects: 1.132266 ms  DeleteObjects: 0.009777 ms)
+
+ArgumentException: Path is empty
+  at System.IO.Directory.CreateDirectory (System.String path) [0x00000] in <filename unknown>:0 
+  at saveBtnSrc.save () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+

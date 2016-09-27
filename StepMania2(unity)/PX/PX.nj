@@ -1,0 +1,29 @@
+#TITLE:PX;
+#SUBTITLE:;
+#ARTIST:;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:;
+#CREDIT:;
+#BANNER:;
+#BACKGROUND:;
+#LYRICSPATH:;
+#CDTITLE:;
+#MUSIC:;
+#OFFSET:;
+#SAMPLESTART:;
+#SAMPLELENGTH:;
+#SELECTABLE:YES;;
+#BPMS:0.000=240.000;
+#STOPS:;
+#BGCHANGE:;
+#KEYSOUNDS:;
+
+//---------------dance-single - Blank----------------//
+#NOTES:
+	dance-single:
+	:
+	easy:
+	4:
+	1.000,0.585,1.000,0.051,0.890:

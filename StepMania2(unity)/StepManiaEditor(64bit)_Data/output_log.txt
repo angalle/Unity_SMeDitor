@@ -1,0 +1,266 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8400 (ID=0x9830)
+    Vendor:   ATI
+    VRAM:     497 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\LeeHeesun\Dropbox\StepMania2\StepManiaEditor(64bit)_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ClickEvent.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
